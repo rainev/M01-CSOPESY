@@ -60,7 +60,6 @@ This will:
 👥 Authors
 
 Dicayanan | Maramag | Maunahan | Villaver
-“Like a real OS, but not written in assembly!”
 
 ⸻
 
